@@ -1,0 +1,19 @@
+.features__text-wrapper {
+  width: 900px;
+}
+
+.features__title {
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 38px;
+  margin-bottom: 16px;
+}
+
+.features__text {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 32px;
+}/*# sourceMappingURL=features.css.map */
